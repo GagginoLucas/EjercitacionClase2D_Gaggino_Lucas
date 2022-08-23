@@ -1,0 +1,16 @@
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.exe
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.deps.json
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.runtimeconfig.json
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.runtimeconfig.dev.json
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.dll
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\bin\Debug\net5.0\Mi primer proyecto.pdb
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.csproj.AssemblyReference.cache
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.AssemblyInfoInputs.cache
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.AssemblyInfo.cs
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.csproj.CoreCompileInputs.cache
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.dll
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\refint\Mi primer proyecto.dll
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.pdb
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\Mi primer proyecto.genruntimeconfig.cache
+C:\Users\gaggi\source\repos\Clase1\Mi primer proyecto\obj\Debug\net5.0\ref\Mi primer proyecto.dll
