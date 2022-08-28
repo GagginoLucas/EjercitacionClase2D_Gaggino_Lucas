@@ -1,0 +1,16 @@
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\Ejercicio_05.csproj.AssemblyReference.cache
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\Ejercicio_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\Ejercicio_05.AssemblyInfoInputs.cache
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\Ejercicio_05.AssemblyInfo.cs
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\Ejercicio_05.csproj.CoreCompileInputs.cache
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\bin\Debug\net5.0\Ejercicio_05.exe
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\bin\Debug\net5.0\Ejercicio_05.deps.json
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\bin\Debug\net5.0\Ejercicio_05.runtimeconfig.json
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\bin\Debug\net5.0\Ejercicio_05.runtimeconfig.dev.json
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\bin\Debug\net5.0\Ejercicio_05.dll
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\bin\Debug\net5.0\Ejercicio_05.pdb
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\Ejercicio_05.dll
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\refint\Ejercicio_05.dll
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\Ejercicio_05.pdb
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\Ejercicio_05.genruntimeconfig.cache
+C:\Users\gaggi\source\repos\Clase1\Ejercicio_05\obj\Debug\net5.0\ref\Ejercicio_05.dll
