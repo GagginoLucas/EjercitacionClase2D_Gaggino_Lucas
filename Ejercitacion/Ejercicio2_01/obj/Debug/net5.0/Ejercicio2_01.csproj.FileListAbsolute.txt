@@ -1,0 +1,16 @@
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\Ejercicio2_01.csproj.AssemblyReference.cache
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\Ejercicio2_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\Ejercicio2_01.AssemblyInfoInputs.cache
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\Ejercicio2_01.AssemblyInfo.cs
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\Ejercicio2_01.csproj.CoreCompileInputs.cache
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\bin\Debug\net5.0\Ejercicio2_01.exe
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\bin\Debug\net5.0\Ejercicio2_01.deps.json
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\bin\Debug\net5.0\Ejercicio2_01.runtimeconfig.json
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\bin\Debug\net5.0\Ejercicio2_01.runtimeconfig.dev.json
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\bin\Debug\net5.0\Ejercicio2_01.dll
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\bin\Debug\net5.0\Ejercicio2_01.pdb
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\Ejercicio2_01.dll
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\refint\Ejercicio2_01.dll
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\Ejercicio2_01.pdb
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\Ejercicio2_01.genruntimeconfig.cache
+C:\Users\gaggi\source\repos\Clase1\Ejercicio2_01\obj\Debug\net5.0\ref\Ejercicio2_01.dll
